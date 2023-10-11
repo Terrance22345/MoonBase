@@ -1,0 +1,10 @@
+C:\Users\Terrance Gay\OneDrive\Documents\C# Programmig\wk 2.1 Moonbase\Moonbase\bin\Debug\Moonbase.exe.config
+C:\Users\Terrance Gay\OneDrive\Documents\C# Programmig\wk 2.1 Moonbase\Moonbase\bin\Debug\Moonbase.exe
+C:\Users\Terrance Gay\OneDrive\Documents\C# Programmig\wk 2.1 Moonbase\Moonbase\bin\Debug\Moonbase.pdb
+C:\Users\Terrance Gay\OneDrive\Documents\C# Programmig\wk 2.1 Moonbase\Moonbase\obj\Debug\Moonbase.csproj.AssemblyReference.cache
+C:\Users\Terrance Gay\OneDrive\Documents\C# Programmig\wk 2.1 Moonbase\Moonbase\obj\Debug\Moonbase.Form1.resources
+C:\Users\Terrance Gay\OneDrive\Documents\C# Programmig\wk 2.1 Moonbase\Moonbase\obj\Debug\Moonbase.Properties.Resources.resources
+C:\Users\Terrance Gay\OneDrive\Documents\C# Programmig\wk 2.1 Moonbase\Moonbase\obj\Debug\Moonbase.csproj.GenerateResource.cache
+C:\Users\Terrance Gay\OneDrive\Documents\C# Programmig\wk 2.1 Moonbase\Moonbase\obj\Debug\Moonbase.csproj.CoreCompileInputs.cache
+C:\Users\Terrance Gay\OneDrive\Documents\C# Programmig\wk 2.1 Moonbase\Moonbase\obj\Debug\Moonbase.exe
+C:\Users\Terrance Gay\OneDrive\Documents\C# Programmig\wk 2.1 Moonbase\Moonbase\obj\Debug\Moonbase.pdb
